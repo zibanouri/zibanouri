@@ -1,0 +1,60 @@
+{
+  "name": "zibanouri",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "A React + TypeScript + Tailwind zibanouri Tamplate",
+  "keywords": [
+    "react",
+    "vite",
+    "typescript",
+    "tailwind",
+    "cv",
+    "port"
+  ],
+  "author": {
+    "name": "zibanouri",
+    "email": "zn.zibanouri@gmail.com",
+    "url": "https://zibanouri"
+  },
+  "license": "MIT",
+  "homepage": "https://zibanouri#README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/zibanouri/zibanouri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zibanouri/zibanouri/issues"
+  },
+  "profiles": {
+    "gitHub": "https://github.com/zibanouri",
+    "linkedin": "https://www.linkedin.com/in/zibanouri"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\""
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@tailwindcss/vite": "^4.1.11",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "eslint": "^9.30.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "prettier": "^3.6.2",
+    "tailwindcss": "^4.1.11",
+    "typescript": "~5.8.3",
+    "typescript-eslint": "^8.35.1",
+    "vite": "^7.0.4"
+  }
+}
