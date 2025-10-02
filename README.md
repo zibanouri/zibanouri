@@ -3,9 +3,6 @@
 </h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 20px;">
-  <a href="https://github.com/zibanouri/zibaweb/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" />
-  </a>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
@@ -16,9 +13,6 @@
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <a href="https://zibanouri.github.io/zibaweb">
-    <img src="https://img.shields.io/badge/Live%20Demo-Online-crimson?style=for-the-badge" alt="Live Demo" />
-  </a>
 </div>
 
 ---
@@ -63,6 +57,3 @@ My ultimate goal is professional independence—delivering real value through bo
 
 ---
 
-<div align="center">
-  <sub>Made with ❤️ by <a href="https://zibanouri.github.io/zibaweb">Ziba</a></sub>
-</div>
