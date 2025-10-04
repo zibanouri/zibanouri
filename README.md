@@ -9,6 +9,7 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
+  
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
@@ -47,7 +48,13 @@ All the projects I have on GitHub are the result of months of hard work to achie
 
 ## Contact
 - Email: **zn.zibanouri@gmail.com**  
-- [LinkedIn](https://www.linkedin.com/in/ziba-nouri/)  
+- [LinkedIn](https://www.linkedin.com/in/ziba-nouri/)
+---
+<div align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/zibanouri">Ziba</a></sub>
+</div>
+
+
 
 ---
 
