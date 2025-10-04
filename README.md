@@ -18,7 +18,7 @@
 
 ---
 
-I started programming with HTML and CSS, and then I got acquainted with Bootstrap and JavaScript. I am currently learning React and using libraries like Lucid and Chat.
+I started programming with HTML and CSS, and then I got acquainted with Bootstrap and JavaScript. I am currently learning React and using libraries like Lucid and shadcn.
 I have learned and work with Photoshop to the extent that a front-end developer should know.
 All the projects I have on GitHub are the result of months of hard work to achieve my goals. I love my job and I code with love.
 ---
