@@ -17,15 +17,9 @@
 
 ---
 
-## About Me
-My web development journey began with **HTML, CSS, and Bootstrap**.  
-I then advanced to **JavaScript** and **TypeScript**, and started building dynamic UIs with **React**.  
-Currently, through consistent, project-based practice, I am working toward becoming an independent and proficient front-end developer.  
-
-At the same time, I am improving my design skills with **Adobe Photoshop**, which helps me build more cohesive, user-friendly, and visually appealing interfaces.  
-
-My ultimate goal is professional independence—delivering real value through both **code and design**.  
-
+I started programming with HTML and CSS, and then I got acquainted with Bootstrap and JavaScript. I am currently learning React and using libraries like Lucid and Chat.
+I have learned and work with Photoshop to the extent that a front-end developer should know.
+All the projects I have on GitHub are the result of months of hard work to achieve my goals. I love my job and I code with love.
 ---
 
 ## Development Skills
